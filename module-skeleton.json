@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-module-ecommerce-warranty-and-claims-nextjs",
+  "capabilityKey": "planned:ecommerce:module-ecommerce-warranty-and-claims",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-module-ecommerce-warranty-and-claims-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/module-ecommerce-warranty-and-claims.md",
+  "presentationPlan": "projects/ecommerce/nextjs/module-ecommerce-warranty-and-claims.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
